@@ -1,2 +1,1 @@
-# simple-keyboard-requirejs-demo
-Created with CodeSandbox
+# simple-keyboard + Require JS
